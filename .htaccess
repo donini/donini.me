@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule   .	/pt  [L]
+RewriteCond %{HTTP_HOST} donini\.me [NC]
+RewriteCond %{REQUEST_URI} ^/$
+Rewriterule ^(.*)$ http://donini.me/ [L,R=301]
+Redirect 301 /ftm http://donini.me/blog/2016/05/21/um-jeito-rapido-de-gerenciar-sua-vida/
+</IfModule>

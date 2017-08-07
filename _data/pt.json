@@ -1,0 +1,34 @@
+{
+	"name": "Português",
+	"terms": [{
+		"profile_photo": {
+			"name": "Donini",
+			"position": "WordPress Engineer",
+			"change": "mudar para ",
+			"scroll_down": "Rolar para baixo",
+			"section": "Eu"
+		},
+		"blog_posts": {
+			"title": "Últimos posts",
+			"more_posts": "mais posts",
+			"section": "Últimos posts"
+		},
+		"profile_about": {
+			"title": "Sobre",
+			"paragraph_1": "Meu nome completo é Rodrigo Soares Donini, mas meus amigos me chamam simplesmente de 'Donini' :-). Sou <a href='https://pt.wikipedia.org/wiki/Ga%C3%BAcho' title='gaúcho na wiki' target='_blank'>gaúcho</a>, de origem alemã e italiana. Vivo com minha adorável esposa Cláudia e meu filho Cícero.",
+			"paragraph_2": "Atualmente estou localizado no Brasil, trabalhando com o foco de produzir projetos digitais para agências espalhadas pelo mundo.",
+			"paragraph_3": "Possuo alguns projetos pessoais que rodam paralelos à minha vida, a maioria deles estão compartilhados na internet, alguns deles no <a href='https://github.com/donini/' target='_blank'>Github</a>, <a href='https://www.youtube.com/c/rodrigodonini' target='_blank'>Youtube</a> e outros no meu blog como o <a href='http://donini.me/blog/2016/05/21/um-jeito-rapido-de-gerenciar-sua-vida/' title='Fask Task Management' name='Fask Task Management'>FTM</a>.",
+			"paragraph_4": "Sou apaixonado por tecnologia, gadgets, montar e fazer minhas próprias coisas, simplicidade e boa música.",
+			"section": "Sobre",
+			"title_social": "Social"
+		},
+		"profile_quote": {
+			"title": "Citação favorita",
+			"quote": "\" Se a oportunidade não bater à sua porta, construa a sua porta. \"",
+			"author": "Milton Berle / Comediante, apresentador de TV e compositor norte-americano.",
+			"section": "Citação",
+			"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
+		},
+		"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	"name": "English",
+	"terms": [{
+		"profile_photo": {
+			"name": "Donini",
+			"position": "WordPress Engineer & Project Manager",
+			"change": "change to ",
+			"scroll_down": "Scroll down",
+			"section": "Me"
+		},
+		"profile_about": {
+			"title": "About",
+			"paragraph_1": "My full name is Rodrigo Soares Donini, but my friends call me simply 'Donini'. I <a href='https://pt.wikipedia.org/wiki/Ga%C3%BAcho' title='Gaúcho na wiki' target='_blank'>gaúcho</a>, from German and Italian origin. I live with my lovely wife Cláudia and my son Cícero.",
+			"paragraph_2": "Currently I'm located in Brazil, working remotely with WordPress, WordCamp Organizer and <a href='https://speakerdeck.com/donini' title='Take a look into my recently talks' target='_blank'>speaking</a> in some events around the world.",
+			"paragraph_3": "I have some personal projects that run parallel to my life, most of them are shared on the internet, someones in <a href='https://github.com/donini/' title='Watch my code' target='_blank'>Github</a>, <a href='https://www.youtube.com/c/rodrigodonini' title='Follow my channel' target='_blank'>Youtube</a> and <a href='https://medium.com/@donini' title='Lastest trends' target='_blank'>Medium</a>.",
+			"paragraph_4": "I am passionate about technology, gadgets, assemble and do my own things, simplicity and good music.",
+			"section": "About",
+			"title_social": "Social"
+		},
+		"profile_quote": {
+			"title": "Favorite quote",
+			"quote": "\" If opportunity does not knock on your door, build your door. \"",
+			"author": "Milton Berle / Comedian, TV presenter and American composer.",
+			"section": "Quote"
+		},
+		"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
+	}]
+}

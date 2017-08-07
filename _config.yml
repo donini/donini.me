@@ -1,0 +1,23 @@
+
+# Site settings
+title: Rodrigo Donini
+email: me@donini.me
+description: > # this means to ignore newlines until "baseurl:"
+  Rodrigo Donini é Empreendedor e Full Stack Developer, apaixonado por gestão e tecnologia, <a href="/">@donini</a>.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://donini.me" # the base hostname & protocol for your site
+#url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+logo: "/assets/img/logo.png"
+
+# Build settings
+paginate: 10
+paginate_path: "/blog/page:num/"
+markdown: kramdown
+highlighter: pygments
+sass:
+    sass_dir: assets/css/sass
+    style: compressed
+
+plugins:
+#  - jekyll-gist
+  - jekyll-paginate
