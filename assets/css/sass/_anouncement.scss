@@ -1,0 +1,27 @@
+.anouncement {
+    background-color: $color_anouncement;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+    height: 60px;
+    text-align: center;
+    font-family: Lato;
+    a {
+        color: $color_white;
+        display: inline-block;
+        text-align: center;
+        font-weight: 300;
+        letter-spacing: 1px;
+        line-height: 27px;
+        span {
+            display: block;
+            &:last-child {
+                font-weight: 700;
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+}
+

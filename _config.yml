@@ -20,4 +20,4 @@ sass:
 
 plugins:
 #  - jekyll-gist
-  - jekyll-paginate
+#  - jekyll-paginate

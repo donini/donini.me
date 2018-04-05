@@ -26,6 +26,7 @@ $color_white: rgba(255, 255, 255, 1);
 $color_black: rgba(32, 32, 32, 1);
 $color_gray64: rgba(163, 163, 163, 1);
 $color_grey_dark: rgb(138, 138, 138);
+$color_anouncement: rgb(253, 126, 20);
 
 // Sizes
 $h1_size: 28px;
@@ -39,9 +40,10 @@ $author_size: 11px;
 
 // @import url("@import url(https://fonts.googleapis.com/css?family=Alegreya:400,700,400italic,700italic");
 @import url("http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface");
-@import url("https://fonts.googleapis.com/css?family=Lato:300");
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700,900");
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+		"anouncement",
 		"base",
 		"profile-photo",
 		"profile-about",
